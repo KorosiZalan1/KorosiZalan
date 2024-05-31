@@ -1,15 +1,38 @@
 body{
     background-color: aliceblue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana;
     font-size: 1em;
 }
 
 img{
-    width: 400px;
+    width: 450px;
     height: 400px;
+    border: 2px solid;
+    margin: 2px;
 }
 
 .text{
     text-indent: 1em;
     text-align: justify;
+}
+
+footer{
+    height: 150px;
+    padding: 1em;
+}
+
+a{
+    text-decoration: none;
+}
+
+.dolt{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.under{
+    text-decoration: underline;
 }
